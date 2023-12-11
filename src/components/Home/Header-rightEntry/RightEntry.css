@@ -1,0 +1,18 @@
+.right-entry {
+    flex:1;
+    float: right;
+    margin-right: 18px;
+}
+
+.home_i {
+    font-size: 14px;
+    font-weight: 400;
+    color: #61666D;
+    font-style: normal;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.home_a {
+    color: inherit;
+}
